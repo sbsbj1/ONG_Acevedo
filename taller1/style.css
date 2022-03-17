@@ -1,0 +1,102 @@
+
+
+.ongTitle {
+    text-align: center;
+    margin-top: 5%;
+}
+
+.ongSub {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+
+.integrantesTitle {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+}
+
+.listIntegrantes{
+    display: table;
+    padding-left: auto;
+    margin-left: 8rem;
+}
+
+li {
+    margin-left: 250px;
+}
+
+
+
+.seccionTitle {
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+table {
+    width: 80%;
+}
+
+td {
+    width: 40%;
+    text-align: center;
+    vertical-align: middle;
+}
+
+img {
+    padding-bottom: 20px;
+}
+
+
+.gatosTitle {
+    text-align: center;
+    padding-top: 5%;
+}
+
+.subGatos {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+
+.aInicio{
+    float: right;
+    display: inline;
+}
+
+.perrosTitle {
+    text-align: center;
+    padding-top: 5%;
+}
+
+.subPerros {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+
+.EmanuelTable {
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    
+    margin: auto;
+}
+
+.gatoDiv{
+    width:800px; 
+    margin: 0 auto; 
+    padding-top: 20%;
+}
+
+.aInicioGato {
+    float: right;
+    display: inline;
+}
